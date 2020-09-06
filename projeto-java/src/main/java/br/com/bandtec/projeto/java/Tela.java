@@ -71,7 +71,6 @@ public class Tela extends javax.swing.JFrame {
         barra3.setForeground(new java.awt.Color(32, 178, 170));
 
         barra1.setForeground(new java.awt.Color(30, 144, 255));
-        barra1.setMinimum(5);
 
         jLabel1.setText("CPU");
 
